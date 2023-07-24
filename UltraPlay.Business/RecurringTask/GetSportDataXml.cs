@@ -8,9 +8,13 @@ namespace UltraPlay.Business.RecurringTask
 {
 	public static class GetSportDataXml
 	{
-		public static async Task GetUltraPlayData(UltraDbContext context)
+		public static async Task GetUltraPlayData(UltraDbContext context, string url)
 		{
-			var url = "https://sports.ultraplay.net/sportsxml?clientKey=9C5E796D-4D54-42FD-A535-D7E77906541A&sportId=2357&days=7";
+			if (string.IsNullOrEmpty(url))
+			{
+				url = "https://sports.ultraplay.net/sportsxml?clientKey=9C5E796D-4D54-42FD-A535-D7E77906541A&sportId=2357&days=7";
+			}
+
 			var HttpClient = new HttpClient();
 			var response = await HttpClient.GetAsync(url);
 			var data = new XmlSports();

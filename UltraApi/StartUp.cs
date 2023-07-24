@@ -47,10 +47,11 @@ namespace UltraApi
 			{
 				endpoints.MapControllers();
 			});
-
+			var endpoints = Configuration.GetSection("Endpoints").Get<Endpoints>();
+			var xmlUrl = endpoints.UltraPlayXsports;
 			var context = app.ApplicationServices.GetService<UltraDbContext>();
 			var cts = new CancellationTokenSource();
-			RT(async () => await GetSportDataXml.GetUltraPlayData(context), 60, cts.Token);
+			RT(async () => await GetSportDataXml.GetUltraPlayData(context, xmlUrl), 60, cts.Token);
 		}
 
 		static void RT(Action action, int seconds, CancellationToken token)
