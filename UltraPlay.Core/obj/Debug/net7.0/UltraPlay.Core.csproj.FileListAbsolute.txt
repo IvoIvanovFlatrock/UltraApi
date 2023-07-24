@@ -1,0 +1,12 @@
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\bin\Debug\net7.0\UltraPlay.Core.deps.json
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\bin\Debug\net7.0\UltraPlay.Core.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\bin\Debug\net7.0\UltraPlay.Core.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\UltraPlay.Core.csproj.AssemblyReference.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\UltraPlay.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\UltraPlay.Core.AssemblyInfoInputs.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\UltraPlay.Core.AssemblyInfo.cs
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\UltraPlay.Core.csproj.CoreCompileInputs.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\UltraPlay.Core.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\refint\UltraPlay.Core.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\UltraPlay.Core.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Core\obj\Debug\net7.0\ref\UltraPlay.Core.dll

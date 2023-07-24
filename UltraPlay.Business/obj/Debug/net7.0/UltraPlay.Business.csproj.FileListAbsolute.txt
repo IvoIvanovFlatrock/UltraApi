@@ -1,0 +1,17 @@
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\bin\Debug\net7.0\UltraPlay.Business.deps.json
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\bin\Debug\net7.0\UltraPlay.Business.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\bin\Debug\net7.0\UltraPlay.Business.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\UltraPlay.Business.csproj.AssemblyReference.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\UltraPlay.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\UltraPlay.Business.AssemblyInfoInputs.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\UltraPlay.Business.AssemblyInfo.cs
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\UltraPlay.Business.csproj.CoreCompileInputs.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\UltraPlay.Business.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\refint\UltraPlay.Business.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\UltraPlay.Business.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\ref\UltraPlay.Business.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\bin\Debug\net7.0\UltraPlay.Core.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\bin\Debug\net7.0\UltraPlay.Persistence.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\bin\Debug\net7.0\UltraPlay.Persistence.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\bin\Debug\net7.0\UltraPlay.Core.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Business\obj\Debug\net7.0\UltraPlay.Business.csproj.CopyComplete

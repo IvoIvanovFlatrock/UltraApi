@@ -1,0 +1,17 @@
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\bin\Debug\net7.0\UltraPlay.Persistence.deps.json
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\bin\Debug\net7.0\UltraPlay.Persistence.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\bin\Debug\net7.0\UltraPlay.Persistence.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.csproj.AssemblyReference.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.AssemblyInfoInputs.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.AssemblyInfo.cs
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\refint\UltraPlay.Persistence.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\ref\UltraPlay.Persistence.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\bin\Debug\net7.0\UltraPlay.Core.dll
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\bin\Debug\net7.0\UltraPlay.Core.pdb
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.csproj.CopyComplete
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\bin\Debug\net7.0\UltraPlay.Persistence.runtimeconfig.json
+C:\Users\IvoIvanov\source\repos\UltraApi\UltraPlay.Persistence\obj\Debug\net7.0\UltraPlay.Persistence.genruntimeconfig.cache
