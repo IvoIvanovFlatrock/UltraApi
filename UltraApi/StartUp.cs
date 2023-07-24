@@ -1,11 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System.Configuration;
-using System.Xml.Serialization;
 using UltraPlay.Business;
-using UltraPlay.Core.Models;
+using UltraPlay.Business.RecurringTask;
 using UltraPlay.Core.Models.Config;
 using UltraPlay.Persistence;
-using UltraPlay.Business.RecurringTask;
 
 namespace UltraApi
 {
@@ -23,7 +20,6 @@ namespace UltraApi
 			var endpoints = Configuration.GetSection("Endpoints");
 			services.Configure<Endpoints>(endpoints);
 			services.AddControllers();
-			//services.AddEndpointsApiExplorer();
 			services.AddSwaggerGen();
 			var infrConfig = new BusinessIoCConfig(
 				services, Configuration);
@@ -33,38 +29,12 @@ namespace UltraApi
 			}, ServiceLifetime.Transient);
 
 			services.AddTransient<DbContext, UltraDbContext>();
-			//var builder = WebApplication.CreateBuilder(args);
-
-			// Add services to the container.
-			//builder.WebHost.UseStartup<StartUp>();
-			//builder.Services.AddControllers();
-			//// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-			//builder.Services.AddEndpointsApiExplorer();
-			//builder.Services.AddSwaggerGen();
-
-			//var app = builder.Build();
-
-			//// Configure the HTTP request pipeline.
-			//if (app.Environment.IsDevelopment())
-			//{
-			//	app.UseSwagger();
-			//	app.UseSwaggerUI();
-			//}
-
-			//app.UseHttpsRedirection();
-
-			//app.UseAuthorization();
-
-			//app.MapControllers();
-
-			//app.Run();
 		}
 
 		public void Configure(IApplicationBuilder app,
 			IWebHostEnvironment env,
 			IServiceProvider services)
 		{
-			// Configure the HTTP request pipeline.
 			if (env.IsDevelopment())
 			{
 				app.UseSwagger();

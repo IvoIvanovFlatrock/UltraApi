@@ -6,7 +6,7 @@ namespace UltraPlay.Core.Entities
 	[XmlRoot(ElementName = "Sport")]
 	public class SportEntity : IEquatable<SportEntity>
 	{
-		public SportEntity(){ }
+		public SportEntity() { }
 
 		[XmlAttribute(AttributeName = "ID")]
 		[Key]

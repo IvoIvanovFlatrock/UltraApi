@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using UltraPlay.Core.Entities;
 
-
 namespace UltraPlay.Persistence
 {
 	public class UltraDbContext : DbContext

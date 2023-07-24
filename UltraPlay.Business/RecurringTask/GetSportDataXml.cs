@@ -34,6 +34,8 @@ namespace UltraPlay.Business.RecurringTask
 		private static async Task AddNewDataAsync(UltraDbContext context,
 			SportEntity sport)
 		{
+			//(I) : Since there is no requirement for performance it is easier and cleaner to just delete and add,
+			//instead of checking every single entity and decide where to delete, update or add.
 			var sportEntity = await context.Set<SportEntity>()
 				.FirstOrDefaultAsync();
 			if (sportEntity != null)
@@ -83,6 +85,9 @@ namespace UltraPlay.Business.RecurringTask
 			}
 
 			await context.SaveChangesAsync();
+
+			//(I) : After triggering temporal changes release,
+			//entities so we can use context to delete and add new data.
 			context.ChangeTracker.Clear();
 		}
 	}
